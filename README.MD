@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="./increment-and-decrement.gif" alt="Increment and Decrement">
+  <img src="./increment-and-decrement.gif" alt="Increment and Decrement" width: "100%">
 </p>
 
 ## 🚀 Technologies
